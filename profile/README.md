@@ -2,4 +2,4 @@
 
 # No longer maintained. Project moved to my git account.
 
-DiamondFire Activities repositories. These repositories are *private* access, be mindful about sharing any information. Organization is made public to open source some future repositories for DFA such as the Discord bot and any future integrations. Maintained by **Refrizor**
+DiamondFire Activities repositories. These repositories are *private* access, be mindful about sharing any information. Organization is made public to open source some future repositories for DFA such as the Discord bot and any future integrations.
